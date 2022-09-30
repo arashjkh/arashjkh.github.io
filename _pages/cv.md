@@ -21,6 +21,6 @@ Vitae also available to download [here](../files/jcv.pdf).
 </object>
 
 {% comment %}
-<iframe src="https://drive.google.com/file/d/1haaQPgAMkOqouNhVPiB8EHmol-okyQOy/preview" width="100%" height = "800"></iframe>
+<iframe src="https://drive.google.com/file/d/1wzveJ-vVK8-Z4TMxJviZhaYRYX5ahaLO/view?usp=sharing" width="100%" height = "800"></iframe>
 {% endcomment %}
 
