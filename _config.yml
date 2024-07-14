@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arash J. Khabbazi"
+title                    : "Arash Jalil Khabbazi"
 title_separator          : "-"
 name                     : &name "Arash Jalil Khabbazi"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Arash Jalil Khabbazi"
   avatar           : "IMG_4623.jpg"
-  bio              : "Ph.D. Student in Mechanical Engineering"
+  bio              : "Ph.D. student in Mechanical Engineering"
   location         : "IN, USA"
   employer         : #"Purdue University"
   pubmed           : 
