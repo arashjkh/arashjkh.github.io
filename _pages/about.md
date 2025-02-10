@@ -20,7 +20,7 @@ redirect_from:
 
 <br>
 
-Hi there, thanks for stopping by!
+Thanks for visiting! Here’s a bit about me.
 
 I’m a second-year Ph.D. student of Mechanical Engineering at <a href="https://engineering.purdue.edu/Herrick" target="_blank" style="color: black; text-decoration: underline;">Herrick Laboratories</a> at Purdue University, working under the guidance of Prof. <a href="https://kevinjkircher.com/" target="_blank" style="color: black; text-decoration: underline;">Kevin Kircher</a>. My research focuses on developing machine learning, optimization, and control algorithms for heating and cooling systems in commercial buildings.
 
