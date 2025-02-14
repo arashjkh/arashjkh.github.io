@@ -11,7 +11,7 @@ redirect_from:
 <style>
   body {
     color: black;
-    font-size: 14px; /* Adjust the size as needed */
+    font-size: 16px; /* Adjust the size as needed */
   }
 </style>
 
